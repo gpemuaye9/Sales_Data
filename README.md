@@ -1,5 +1,5 @@
 # Sales_Data
- Exploratory data analysis on sales data
+ 
  This file consist of questions and SQL scripts to answer the questions.
  
 The Organization is planning to gift the best performing manager who made the best sales and want to know the region which the manager belongs to?
